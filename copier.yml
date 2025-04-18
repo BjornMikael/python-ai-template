@@ -1,0 +1,10 @@
+_min_copier_version: "7.0"
+_version: "1.1.1"
+
+project_name:
+  type: str
+  help: "What is the name of your project?"
+
+_exclude:
+  - projects/
+  - .git/

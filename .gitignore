@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+.cache/
+poetry.lock
+*.sqlite3
+.ipynb_checkpoints/
