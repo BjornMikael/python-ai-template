@@ -9,6 +9,12 @@ A ready-to-use project template for building modern AI-powered Python apps using
 
 ---
 
+## 🎬 Demo
+
+![Python AI Template Demo](https://raw.githubusercontent.com/BjornMikael/images/main/python-ai-template.png)
+
+---
+
 ## 🚀 Features
 ✅ **Langchain + OpenAI starter code**  
 ✅ **Poetry** for dependency management  
