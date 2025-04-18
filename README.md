@@ -11,7 +11,7 @@ A ready-to-use project template for building modern AI-powered Python apps using
 
 ## 🎬 Demo
 
-![Python AI Template Demo](https://raw.githubusercontent.com/BjornMikael/images/main/python-ai-template.png)
+<img src="https://raw.githubusercontent.com/BjornMikael/images/main/python-ai-template.png" width="400"/>
 
 ---
 
